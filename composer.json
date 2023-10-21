@@ -1,7 +1,7 @@
 {
     "name": "instalution/activitypub",
     "type": "library",
-    "version": "0.6.0",
+    "version": "0.7.0",
     "description": "Fork of `landrok/activitypub` @ https://github.com/landrok/activitypub",
     "keywords": ["ActivityPub", "ActivityStreams", "federation"],
     "homepage": "https://github.com/instalution/activitypub",
